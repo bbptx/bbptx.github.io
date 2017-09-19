@@ -5,7 +5,7 @@
     "categories": [
 	{
     	"name": "Test videos",
-    	"query": "knanaya OR Test videos",
+    	"query": "knanaya OR Test",
     	"order": "most_popular"
 	}
     ],
@@ -27,7 +27,7 @@
   		"thumbnail": "https://i.vimeocdn.com/video/603074549.jpg?w=800&h=450",
   		"shortDescription": "A short-form video-1",
   		"releaseDate": "2016-01-01",
-		"tags": "knanaya"
+		"tags": ["knanaya", "Test"]
 	},
 	{
   		"id": "KERALTVTESTVID0002-191858655",
@@ -46,7 +46,7 @@
   		"thumbnail": "https://i.vimeocdn.com/video/603074549.jpg?w=800&h=450",
   		"shortDescription": "A short-form video-2",
   		"releaseDate": "2016-01-01",
-		"tags": "knanaya"
+		"tags": ["knanaya", "Test"]
 	}
 		
     ]
