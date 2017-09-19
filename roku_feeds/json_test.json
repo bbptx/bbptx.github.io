@@ -14,7 +14,6 @@
   		"id": "KERALTVTESTVID0001-191858655",
   		"title": "TEST Video 1",
   		"content": {
-    			{
   			"dateAdded": "2015-11-11T22:21:37+00:00",
   			"videos": [
     				{
@@ -24,8 +23,7 @@
 				}
   				],
   			"duration": 455
-			}
-  		},
+			},
   		"thumbnail": "https://i.vimeocdn.com/video/603074549.jpg?w=800&h=450",
   		"shortDescription": "A short-form video-1",
   		"releaseDate": "2016-01-01"
@@ -34,7 +32,6 @@
   		"id": "KERALTVTESTVID0002-191858655",
   		"title": "TEST Video 2",
   		"content": {
-    			{
   			"dateAdded": "2015-11-11T22:21:37+00:00",
   			"videos": [
     				{
@@ -44,8 +41,7 @@
 				}
   				],
   			"duration": 455
-			}
-  		},
+			},
   		"thumbnail": "https://i.vimeocdn.com/video/603074549.jpg?w=800&h=450",
   		"shortDescription": "A short-form video-2",
   		"releaseDate": "2016-01-01"
