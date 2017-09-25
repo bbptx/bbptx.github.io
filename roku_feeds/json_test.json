@@ -5,7 +5,7 @@
     "categories": [
 	{
     	"name": "Test videos",
-    	"query": "knanaya OR Test",
+    	"query": "Test",
     	"order": "most_recent"
 	},
 	{
