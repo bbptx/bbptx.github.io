@@ -47,6 +47,24 @@
   		"shortDescription": "A short-form video-2",
   		"releaseDate": "2016-01-01",
 		"tags": ["knanaya", "Test"]
+	},
+	{
+  		"id": "KERALTVTESTVID0003-191858655",
+  		"title": "TEST Video 3-Live",
+  		"content": {
+  			"dateAdded": "2017-09-24T22:21:37+00:00",
+  			"videos": [
+    				{
+  				"url": "http://www.nasa.gov/multimedia/nasatv/NTV-Public-IPS.m3u8",
+  				"quality": "HD",
+  				"videoType": "HLS"
+				}
+  				]
+			},
+  		"thumbnail": "http://static-cdn1.ustream.tv/i/channelcover/6540154,orig,r:2.jpg?w=800&h=450",
+  		"shortDescription": "NTV-Public-IPS",
+  		"releaseDate": "2017-01-01",
+		"tags": ["Test"]
 	}
 		
     ]
