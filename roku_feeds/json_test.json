@@ -33,7 +33,7 @@
   		"id": "KERALTVTESTVID0003-191858655",
   		"title": "TEST Video 3",
   		"content": {
-  			"dateAdded": "2015-11-11T22:21:37+00:00",
+  			"dateAdded": "2017-09-09T22:21:37+00:00",
   			"videos": [
     				{
   				"url": "https://player.vimeo.com/external/191858655.m3u8?s=635f8f3356cb0277a22e146b96dd5d30b5fbc7af",
@@ -45,7 +45,7 @@
 			},
   		"thumbnail": "https://i.vimeocdn.com/video/603074549.jpg?w=800&h=450",
   		"shortDescription": "A short-form video-3",
-  		"releaseDate": "2016-01-01",
+  		"releaseDate": "2017-01-01",
 		"tags": ["knanaya", "Test"]
 	}
     ]
