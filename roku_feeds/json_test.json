@@ -17,7 +17,7 @@
     "shortFormVideos":  [
 	{
   		"id": "KERALTVTESTVID0001-191858655",
-  		"title": "TEST Video 1",
+  		"title": "Video 1",
   		"content": {
   			"dateAdded": "2015-11-11T22:21:37+00:00",
   			"videos": [
@@ -36,7 +36,7 @@
 	},
 	{
   		"id": "KERALTVTESTVID0002-191858655",
-  		"title": "TEST Video 2",
+  		"title": "Video 2",
   		"content": {
   			"dateAdded": "2015-11-11T22:21:37+00:00",
   			"videos": [
@@ -55,7 +55,7 @@
 	},
 	{
   		"id": "KERALTVTESTVID0003-191858655",
-  		"title": "TEST Video 3",
+  		"title": "Video 3",
   		"content": {
   			"dateAdded": "2015-11-11T22:21:37+00:00",
   			"videos": [
@@ -74,7 +74,7 @@
 	},
 	{
   		"id": "KERALTVTESTVID0004-191858655",
-  		"title": "TEST Video 4",
+  		"title": "Video 4",
   		"content": {
   			"dateAdded": "2015-11-11T22:21:37+00:00",
   			"videos": [
