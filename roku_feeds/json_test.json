@@ -55,7 +55,7 @@
 	},
 	{
     	"name": "Community",
-    	"query": "community",
+    	"query": "community OR knanaya",
     	"order": "most_recent"
 	},
 	{
