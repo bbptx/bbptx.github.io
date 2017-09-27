@@ -2,23 +2,6 @@
     "providerName": "AAA Creations",
     "lastUpdated": "2017-09-09T22:21:37+00:00",
     "language": "en",
-    "categories": [
-	{
-    	"name": "Test videos",
-    	"query": "Test",
-    	"order": "most_recent"
-	},
-	{
-    	"name": "Knanaya Videos",
-    	"query": "knanaya",
-    	"order": "most_recent"
-	},
-	{
-    	"name": "Live Videos",
-    	"query": "live",
-    	"order": "most_recent"
-	}
-    ],
     "shortFormVideos":  [
 	{
   		"id": "KERALTVTESTVID0001-191858655",
@@ -57,25 +40,58 @@
   		"shortDescription": "A short-form video-2",
   		"releaseDate": "2016-01-01",
 		"tags": ["knanaya"]
+	}
+    ],
+    "categories": [
+	{
+    	"name": "Test videos",
+    	"query": "Test",
+    	"order": "most_recent"
 	},
 	{
-  		"id": "KERALTVTESTVID0003-191858655",
-  		"title": "Video 3-LIVE",
-  		"content": {
-  			"dateAdded": "2017-09-11T22:21:37+00:00",
-  			"videos": [
-    				{
-  				"url": "https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8",
-  				"quality": "HD",
-  				"videoType": "HLS"
-				}
-  				],
-  			"duration": 50000
-			},
-  		"thumbnail": "https://www.nasa.gov/images/content/175882main_dawn-vesta-orbit-browse.jpg?w=800&h=450",
-  		"shortDescription": "A short-form LIVE video TEST",
-  		"releaseDate": "2017-01-01",
-		"tags": ["live", "Test"]
+    	"name": "News",
+    	"query": "news",
+    	"order": "most_recent"
+	},
+	{
+    	"name": "Community",
+    	"query": "community",
+    	"order": "most_recent"
+	},
+	{
+    	"name": "Events",
+    	"query": "event OR test",
+    	"order": "most_recent"
+	},
+	{
+    	"name": "Spiritual",
+    	"query": "spiritual",
+    	"order": "most_recent"
+	},
+	{
+    	"name": "Wedding",
+    	"query": "wedding OR Test",
+    	"order": "most_recent"
+	},
+	{
+    	"name": "Obituary",
+    	"query": "obituary",
+    	"order": "most_recent"
+	},
+	{
+    	"name": "Greetings",
+    	"query": "greetings",
+    	"order": "most_recent"
+	},
+	{
+    	"name": "Entertainment",
+    	"query": "entertainment",
+    	"order": "most_recent"
+	},
+	{
+    	"name": "Classifieds",
+    	"query": "classifieds",
+    	"order": "most_recent"
 	}
     ]
 }
