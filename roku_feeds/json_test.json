@@ -50,13 +50,13 @@
 			"duration": 455
 		},
 		"thumbnail": "https://i.vimeocdn.com/video/603074549.jpg?w=800&h=450",
-		"shortDescription": "A short-form video-2",
+		"shortDescription": "A short-form video-3",
 		"releaseDate": "2016-01-01",
 		"tags": ["entertainment"]
 	}],
 	"categories": [{
 		"name": "Test videos",
-		"query": "Test",
+		"query": "Test OR Entertainment",
 		"order": "most_recent"
 	},
 	{
