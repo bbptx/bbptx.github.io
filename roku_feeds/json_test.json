@@ -60,11 +60,6 @@
 		"order": "most_recent"
 	},
 	{
-		"name": "Live videos",
-		"query": "live",
-		"order": "most_recent"
-	},
-	{
 		"name": "News",
 		"query": "news",
 		"order": "most_recent"
