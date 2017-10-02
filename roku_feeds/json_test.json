@@ -48,15 +48,15 @@
   			"dateAdded": "2015-11-11T22:21:37+00:00",
   			"videos": [
     				{
-  				"url": "https://player.vimeo.com/external/191858655.m3u8?s=635f8f3356cb0277a22e146b96dd5d30b5fbc7af",
+  				"url": "http://wowzaec2demo.streamlock.net:1935/vod/smil:BigBuckBunny.smil/playlist.m3u8",
   				"quality": "HD",
   				"videoType": "HLS"
 				}
   				],
   			"duration": 455
 			},
-  		"thumbnail": "https://i.vimeocdn.com/video/603074549.jpg?w=800&h=450",
-  		"shortDescription": "A short-form video-2",
+  		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Big_buck_bunny_long_shot.ogv/800px--Big_buck_bunny_long_shot.ogv.jpg",
+  		"shortDescription": "A short-form video-3",
   		"releaseDate": "2016-01-01",
 		"tags": ["entertainment"]
 	}
