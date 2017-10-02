@@ -59,25 +59,6 @@
   		"shortDescription": "A short-form video-2",
   		"releaseDate": "2016-01-01",
 		"tags": ["entertainment"]
-	},
-	{
-  		"id": "KERALTVTESTVID0004-191858655",
-  		"title": "Live video Test",
-  		"content": {
-  			"dateAdded": "2015-11-11T22:21:37+00:00",
-  			"videos": [
-    				{
-  				"url": "https://wowzaec2demo.streamlock.net:1935/vod/smil:BigBuckBunny.smil/playlist.m3u8",
-  				"quality": "SD",
-  				"videoType": "HLS"
-				}
-  				],
-  			"duration": 455
-			},
-  		"thumbnail": "https://i.vimeocdn.com/video/603074549.jpg?w=800&h=450",
-  		"shortDescription": "Test for live video from wowza server",
-  		"releaseDate": "2016-01-01",
-		"tags": ["live","test"]
 	}
     ],
     "categories": [
