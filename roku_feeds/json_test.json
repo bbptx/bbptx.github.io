@@ -59,12 +59,36 @@
   		"shortDescription": "A short-form video-2",
   		"releaseDate": "2016-01-01",
 		"tags": ["entertainment"]
+	},
+	{
+  		"id": "KERALTVTESTVID0004-191858655",
+  		"title": "Live video Test",
+  		"content": {
+  			"dateAdded": "2015-11-11T22:21:37+00:00",
+  			"videos": [
+    				{
+  				"url": "https://d82b9d.entrypoint.cloud.wowza.com/app-ed9a/ngrp:9ef6566d_all/playlist.m3u8",
+  				"quality": "HD",
+  				"videoType": "HLS"
+				}
+  				],
+  			"duration": 455
+			},
+  		"thumbnail": "https://prod-railsapp.s3.amazonaws.com/uploads/player/video_poster_image/124014/Screen_Shot_2017-09-30_at_10.34.23_AM.png",
+  		"shortDescription": "Test for live video from wowza server",
+  		"releaseDate": "2016-01-01",
+		"tags": ["live","test"]
 	}
     ],
     "categories": [
 	{
     	"name": "Test videos",
     	"query": "Test",
+    	"order": "most_recent"
+	},
+	{
+    	"name": "Live videos",
+    	"query": "live",
     	"order": "most_recent"
 	},
 	{
