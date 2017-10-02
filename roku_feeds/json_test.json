@@ -68,12 +68,13 @@
   			"videos": [
     				{
   				"url": "https://wowzaec2demo.streamlock.net:1935/vod/smil:BigBuckBunny.smil/playlist.m3u8",
-  				"quality": "HD",
+  				"quality": "SD",
   				"videoType": "HLS"
 				}
   				],
   			"duration": 455
 			},
+  		"thumbnail": "https://i.vimeocdn.com/video/603074549.jpg?w=800&h=450",
   		"shortDescription": "Test for live video from wowza server",
   		"releaseDate": "2016-01-01",
 		"tags": ["live","test"]
