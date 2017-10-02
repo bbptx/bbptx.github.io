@@ -53,10 +53,32 @@
 		"shortDescription": "A short-form video-3",
 		"releaseDate": "2016-01-01",
 		"tags": ["entertainment"]
+	},
+	{
+		"id": "KERALTVTESTVID0004-191858655",
+		"title": "Live video test",
+		"content": {
+			"dateAdded": "2015-11-11T22:21:37+00:00",
+			"videos": [{
+				"url": "http://wowzaec2demo.streamlock.net:1935/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+				"quality": "HD",
+				"videoType": "HLS"
+			}],
+			"duration": 455
+		},
+		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Big_buck_bunny_long_shot.ogv/800px--Big_buck_bunny_long_shot.ogv.jpg",
+		"shortDescription": "BigBuckBunny-wowza stream test",
+		"releaseDate": "2016-01-01",
+		"tags": ["entertainment","live"]
 	}],
 	"categories": [{
 		"name": "Test videos",
 		"query": "Test OR Entertainment",
+		"order": "most_recent"
+	},
+	{
+		"name": "Live videos",
+		"query": "live",
 		"order": "most_recent"
 	},
 	{
