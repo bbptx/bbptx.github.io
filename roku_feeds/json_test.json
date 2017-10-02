@@ -74,7 +74,7 @@
   				],
   			"duration": 455
 			},
-  		"thumbnail": "https://prod-railsapp.s3.amazonaws.com/uploads/player/video_poster_image/124014/Screen_Shot_2017-09-30_at_10.34.23_AM.png",
+  		"thumbnail": "https://prod-railsapp.s3.amazonaws.com/uploads/player/video_poster_image/124014/Screen_Shot_2017-09-30_at_10.34.23_AM.png?w=800&h=450",
   		"shortDescription": "Test for live video from wowza server",
   		"releaseDate": "2016-01-01",
 		"tags": ["live","test"]
