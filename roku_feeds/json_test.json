@@ -1,121 +1,112 @@
 {
-    "providerName": "AAA Creations",
-    "lastUpdated": "2017-09-09T22:21:37+00:00",
-    "language": "en",
-    "shortFormVideos":  [
-	{
-  		"id": "KERALTVTESTVID0001-191858655",
-  		"title": "Video 1",
-  		"content": {
-  			"dateAdded": "2015-11-11T22:21:37+00:00",
-  			"videos": [
-    				{
-  				"url": "https://player.vimeo.com/external/191858655.m3u8?s=635f8f3356cb0277a22e146b96dd5d30b5fbc7af",
-  				"quality": "HD",
-  				"videoType": "HLS"
-				}
-  				],
-  			"duration": 455
-			},
-  		"thumbnail": "https://i.vimeocdn.com/video/603074549.jpg?w=800&h=450",
-  		"shortDescription": "A short-form video-1",
-  		"releaseDate": "2016-01-01",
-		"tags": ["knanaya", "Test"]
+	"providerName": "AAA Creations",
+	"lastUpdated": "2017-09-09T22:21:37+00:00",
+	"language": "en",
+	"shortFormVideos": [{
+		"id": "KERALTVTESTVID0001-191858655",
+		"title": "Video 1",
+		"content": {
+			"dateAdded": "2015-11-11T22:21:37+00:00",
+			"videos": [{
+				"url": "https://player.vimeo.com/external/191858655.m3u8?s=635f8f3356cb0277a22e146b96dd5d30b5fbc7af",
+				"quality": "HD",
+				"videoType": "HLS"
+			}],
+			"duration": 455
+		},
+		"thumbnail": "https://i.vimeocdn.com/video/603074549.jpg?w=800&h=450",
+		"shortDescription": "A short-form video-1",
+		"releaseDate": "2016-01-01",
+		"tags": ["knanaya",
+		"Test"]
 	},
 	{
-  		"id": "KERALTVTESTVID0002-191858655",
-  		"title": "Video 2",
-  		"content": {
-  			"dateAdded": "2015-11-11T22:21:37+00:00",
-  			"videos": [
-    				{
-  				"url": "https://player.vimeo.com/external/191858655.m3u8?s=635f8f3356cb0277a22e146b96dd5d30b5fbc7af",
-  				"quality": "HD",
-  				"videoType": "HLS"
-				}
-  				],
-  			"duration": 455
-			},
-  		"thumbnail": "https://i.vimeocdn.com/video/603074549.jpg?w=800&h=450",
-  		"shortDescription": "A short-form video-2",
-  		"releaseDate": "2016-01-01",
+		"id": "KERALTVTESTVID0002-191858655",
+		"title": "Video 2",
+		"content": {
+			"dateAdded": "2015-11-11T22:21:37+00:00",
+			"videos": [{
+				"url": "https://player.vimeo.com/external/191858655.m3u8?s=635f8f3356cb0277a22e146b96dd5d30b5fbc7af",
+				"quality": "HD",
+				"videoType": "HLS"
+			}],
+			"duration": 455
+		},
+		"thumbnail": "https://i.vimeocdn.com/video/603074549.jpg?w=800&h=450",
+		"shortDescription": "A short-form video-2",
+		"releaseDate": "2016-01-01",
 		"tags": ["knanaya"]
 	},
 	{
-  		"id": "KERALTVTESTVID0003-191858655",
-  		"title": "Video 3",
-  		"content": {
-  			"dateAdded": "2015-11-11T22:21:37+00:00",
-  			"videos": [
-    				{
-  				"url": "http://wowzaec2demo.streamlock.net:1935/vod/smil:BigBuckBunny.smil/playlist.m3u8",
-  				"quality": "HD",
-  				"videoType": "HLS"
-				}
-  				],
-  			"duration": 455
-			},
-  		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Big_buck_bunny_long_shot.ogv/800px--Big_buck_bunny_long_shot.ogv.jpg",
-  		"shortDescription": "A short-form video-3",
-  		"releaseDate": "2016-01-01",
+		"id": "KERALTVTESTVID0003-191858655",
+		"title": "Video 3",
+		"content": {
+			"dateAdded": "2015-11-11T22:21:37+00:00",
+			"videos": [{
+				"url": "https://player.vimeo.com/external/191858655.m3u8?s=635f8f3356cb0277a22e146b96dd5d30b5fbc7af",
+				"quality": "HD",
+				"videoType": "HLS"
+			}],
+			"duration": 455
+		},
+		"thumbnail": "https://i.vimeocdn.com/video/603074549.jpg?w=800&h=450",
+		"shortDescription": "A short-form video-2",
+		"releaseDate": "2016-01-01",
 		"tags": ["entertainment"]
-	}
-    ],
-    "categories": [
-	{
-    	"name": "Test videos",
-    	"query": "Test",
-    	"order": "most_recent"
+	}],
+	"categories": [{
+		"name": "Test videos",
+		"query": "Test",
+		"order": "most_recent"
 	},
 	{
-    	"name": "Live videos",
-    	"query": "live",
-    	"order": "most_recent"
+		"name": "Live videos",
+		"query": "live",
+		"order": "most_recent"
 	},
 	{
-    	"name": "News",
-    	"query": "news",
-    	"order": "most_recent"
+		"name": "News",
+		"query": "news",
+		"order": "most_recent"
 	},
 	{
-    	"name": "Community",
-    	"query": "community OR knanaya",
-    	"order": "most_recent"
+		"name": "Community",
+		"query": "community OR knanaya",
+		"order": "most_recent"
 	},
 	{
-    	"name": "Events",
-    	"query": "event OR test",
-    	"order": "most_recent"
+		"name": "Events",
+		"query": "event OR test",
+		"order": "most_recent"
 	},
 	{
-    	"name": "Spiritual",
-    	"query": "spiritual",
-    	"order": "most_recent"
+		"name": "Spiritual",
+		"query": "spiritual",
+		"order": "most_recent"
 	},
 	{
-    	"name": "Wedding",
-    	"query": "wedding OR Test",
-    	"order": "most_recent"
+		"name": "Wedding",
+		"query": "wedding OR Test",
+		"order": "most_recent"
 	},
 	{
-    	"name": "Obituary",
-    	"query": "obituary",
-    	"order": "most_recent"
+		"name": "Obituary",
+		"query": "obituary",
+		"order": "most_recent"
 	},
 	{
-    	"name": "Greetings",
-    	"query": "greetings",
-    	"order": "most_recent"
+		"name": "Greetings",
+		"query": "greetings",
+		"order": "most_recent"
 	},
 	{
-    	"name": "Entertainment",
-    	"query": "entertainment",
-    	"order": "most_recent"
+		"name": "Entertainment",
+		"query": "entertainment",
+		"order": "most_recent"
 	},
 	{
-    	"name": "Classifieds",
-    	"query": "classifieds",
-    	"order": "most_recent"
-	}
-    ]
+		"name": "Classifieds",
+		"query": "classifieds",
+		"order": "most_recent"
+	}]
 }
