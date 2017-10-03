@@ -64,7 +64,7 @@
 				"quality": "HD",
 				"videoType": "HLS"
 			}],
-			"duration": 455
+			"duration": 15000
 		},
 		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Big_buck_bunny_long_shot.ogv/800px--Big_buck_bunny_long_shot.ogv.jpg",
 		"shortDescription": "BigBuckBunny-wowza stream test",
