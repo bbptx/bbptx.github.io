@@ -60,13 +60,13 @@
 		"content": {
 			"dateAdded": "2015-11-11T22:21:37+00:00",
 			"videos": [{
-				"url": "http://wowzaec2demo.streamlock.net:1935/vod/smil:BigBuckBunny.smil/playlist.m3u8",
+				"url": "http://192.168.1.6/test/pplaylist.m3u8",
 				"quality": "HD",
 				"videoType": "HLS"
 			}],
 			"duration": 15000
 		},
-		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Big_buck_bunny_long_shot.ogv/800px--Big_buck_bunny_long_shot.ogv.jpg",
+		"thumbnail": "https://i.ytimg.com/vi/MVVs9HfPrfc/maxresdefault.jpg?w=800&h=450",
 		"shortDescription": "BigBuckBunny-wowza stream test",
 		"releaseDate": "2016-01-01",
 		"tags": ["entertainment","live"]
