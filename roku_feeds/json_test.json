@@ -60,7 +60,7 @@
 		"content": {
 			"dateAdded": "2015-11-11T22:21:37+00:00",
 			"videos": [{
-				"url": "http://192.168.1.6/test/pplaylist.m3u8",
+				"url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8",
 				"quality": "HD",
 				"videoType": "HLS"
 			}],
