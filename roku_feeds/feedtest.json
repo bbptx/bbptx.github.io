@@ -1,9 +1,9 @@
 {
-	"providerName": "AAA Creations",
-	"lastUpdated": "2019-06-16T22:21:37+00:00",
-	"language": "en",
+	"providerName": "KnanayaNews.com",
+	"lastUpdated": "2019-01-20T04:44:37+00:00",
+	"language": "en-US",
 	"movies": [{
-		"id": "knanews_test01_mp4",
+		"id": "295715134_mp4",
 		"title": "MP4 Test",
 		"content": {
 			"dateAdded": "2019-06-16T22:21:37+00:00",
@@ -27,6 +27,34 @@
 			},
 		"tags": ["knanaya",
 		"Test"]
+	}
+	],
+	"liveFeeds": [{
+		"id": "295715134_m3u8",
+		"title": "M3U8 Test",
+		"content": {
+			"dateAdded": "2019-06-16T22:21:37+00:00",
+			"videos": [{
+				"url": "https://player.vimeo.com/external/295715134.m3u8?s=fff2de544126777b6b00866c07f43e0275460850",
+				"quality": "HD",
+				"videoType": "HLS"
+			}],
+			"duration": 5312
+		},
+		"genres": [
+			"news"
+		],
+		"thumbnail": "https://www.techadvisor.co.uk/cmsdata/features/3649516/winx_teaser_image__1__thumb800.jpg",
+		"brandedThumbnail": "https://www.techadvisor.co.uk/cmsdata/features/3649516/winx_teaser_image__1__thumb800.jpg",
+		"shortDescription": "A short-form video-1",
+		"longDescription": "testing mp4",
+		"releaseDate": "2019-06-16",
+		"rating": {
+			"rating": "PG",
+			"ratingSource": "USA_PR"
+			},
+		"tags": ["knanaya",
+		"Test", "live"]
 	}
 	],
 	"categories": [{
