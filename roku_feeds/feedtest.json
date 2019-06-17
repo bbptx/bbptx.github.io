@@ -2,7 +2,7 @@
 	"providerName": "AAA Creations",
 	"lastUpdated": "2019-06-16T22:21:37+00:00",
 	"language": "en",
-	"shortFormVideos": [{
+	"tvSpecials": [{
 		"id": "knanews-test01-mp4",
 		"title": "MP4 Test",
 		"content": {
@@ -10,10 +10,13 @@
 			"videos": [{
 				"url": "https://player.vimeo.com/external/295715134.hd.mp4?s=5bc2c70c413b0f4e389570c1aba244c93b013d3e&profile_id=175",
 				"quality": "HD",
-				"videoType": "HLS"
+				"videoType": "MP4"
 			}],
-			"duration": 500
+			"duration": 5312
 		},
+		"genres": [
+			"news"
+		],
 		"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Audio-mp4.svg/1000px-Audio-mp4.svg.png?w=800&h=450",
 		"shortDescription": "A short-form video-1",
 		"longDescription": "testing mp4",
