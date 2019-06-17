@@ -3,7 +3,7 @@
 	"lastUpdated": "2019-06-16T22:21:37+00:00",
 	"language": "en",
 	"movies": [{
-		"id": "knanews-test01-mp4",
+		"id": "knanews_test01_mp4",
 		"title": "MP4 Test",
 		"content": {
 			"dateAdded": "2019-06-16T22:21:37+00:00",
