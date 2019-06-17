@@ -18,7 +18,7 @@
 			"news"
 		],
 		"thumbnail": "https://www.techadvisor.co.uk/cmsdata/features/3649516/winx_teaser_image__1__thumb800.jpg",
-		"shortDescription": "A short-form video-1",
+		"shortDescription": "mp4 file test",
 		"longDescription": "testing mp4",
 		"releaseDate": "2019-06-16",
 		"rating": {
@@ -44,10 +44,10 @@
 		"genres": [
 			"news"
 		],
-		"thumbnail": "https://bbptx.github.io/roku_feeds/m3u8_800w.png",
-		"brandedThumbnail": "https://bbptx.github.io/roku_feeds/m3u8_800w.png",
-		"shortDescription": "A short-form video-1",
-		"longDescription": "testing mp4",
+		"thumbnail": "https://bbptx.github.io/roku_feeds/m3u_800w.png",
+		"brandedThumbnail": "https://bbptx.github.io/roku_feeds/m3u_800w.png",
+		"shortDescription": "m3u8 file test",
+		"longDescription": "testing m3u8",
 		"releaseDate": "2019-06-16",
 		"rating": {
 			"rating": "PG",
