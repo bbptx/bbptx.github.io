@@ -36,7 +36,7 @@
 			"videos": [{
 				"url": "https://player.vimeo.com/external/295715134.m3u8?s=fff2de544126777b6b00866c07f43e0275460850",
 				"quality": "HD",
-				"videoType": "MP4"
+				"videoType": "HLS"
 			}],
 			"duration": 5312
 		},
