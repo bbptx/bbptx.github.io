@@ -29,8 +29,8 @@
 		"Test"]
 	},
 	{
-		"id": "295715134_m3u8_mv",
-		"title": "M3U8 Test as movie",
+		"id": "295715134_m3u8",
+		"title": "M3U8 Test",
 		"content": {
 			"dateAdded": "2019-06-16T22:21:37+00:00",
 			"videos": [{
@@ -63,7 +63,7 @@
 			"videos": [{
 				"url": "https://player.vimeo.com/external/295715134.m3u8?s=fff2de544126777b6b00866c07f43e0275460850",
 				"quality": "HD",
-				"videoType": "MP4"
+				"videoType": "HLS"
 			}],
 			"duration": 5312
 		},
