@@ -27,17 +27,43 @@
 			},
 		"tags": ["knanaya",
 		"Test"]
-	}
-	],
-	"liveFeeds": [{
-		"id": "295715134_m3u8",
-		"title": "M3U8 Test",
+	},
+	{
+		"id": "295715134_m3u8_mv",
+		"title": "M3U8 Test as movie",
 		"content": {
 			"dateAdded": "2019-06-16T22:21:37+00:00",
 			"videos": [{
 				"url": "https://player.vimeo.com/external/295715134.m3u8?s=fff2de544126777b6b00866c07f43e0275460850",
 				"quality": "HD",
-				"videoType": "HLS"
+				"videoType": "MP4"
+			}],
+			"duration": 5312
+		},
+		"genres": [
+			"news"
+		],
+		"thumbnail": "https://bbptx.github.io/roku_feeds/m3u_800w.png",
+		"shortDescription": "m3u8 file test",
+		"longDescription": "testing m3u8",
+		"releaseDate": "2019-06-16",
+		"rating": {
+			"rating": "PG",
+			"ratingSource": "USA_PR"
+			},
+		"tags": ["knanaya",
+		"Test", "live"]
+	}	   
+	],
+	"liveFeeds": [{
+		"id": "295715134_m3u8_live",
+		"title": "M3U8 Test as live",
+		"content": {
+			"dateAdded": "2019-06-16T22:21:37+00:00",
+			"videos": [{
+				"url": "https://player.vimeo.com/external/295715134.m3u8?s=fff2de544126777b6b00866c07f43e0275460850",
+				"quality": "HD",
+				"videoType": "MP4"
 			}],
 			"duration": 5312
 		},
