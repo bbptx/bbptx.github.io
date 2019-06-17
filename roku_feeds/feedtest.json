@@ -21,8 +21,10 @@
 		"shortDescription": "A short-form video-1",
 		"longDescription": "testing mp4",
 		"releaseDate": "2019-06-16",
-		"rating": "PG",
-		"ratingSource": "USA_PR",
+		"rating": {
+			"rating": "PG",
+			"ratingSource": "USA_PR"
+			},
 		"tags": ["knanaya",
 		"Test"]
 	}
